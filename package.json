@@ -1,0 +1,15 @@
+{
+  "name": "js-for-react-native-11315992",
+  "version": "1.0.0",
+  "description": "Assignment on array manipulation using JavaScript",
+  "main": "arrayManipulation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "js-for-react-native-11315992"
+  },
+  "author": "Handson Ayelgum",
+  "license": "ISC"
+}
